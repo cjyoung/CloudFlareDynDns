@@ -1,5 +1,7 @@
 CloudFlareDynDns
 --------------
+(all credit to https://github.com/potatoqualitee/modules - only wanted this tool, so didn't copy the whole repo)
+
 Updates specified CloudFlare DNS hostname to the current connection's external IP address using CloudFlare API v4 https://api.cloudflare.com/
 		
 This module is useful for homelabs. Remember how DynDns used to dynamically update your IP address for free? The functionality provided by this module is similar but updates CloudFlare hosted domains. CloudFlare is free and awesome, and I recommend it, if even for its simplified DNS management and free HTTPS.
